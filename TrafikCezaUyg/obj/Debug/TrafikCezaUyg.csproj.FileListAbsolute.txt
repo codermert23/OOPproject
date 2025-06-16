@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\bin\Debug\TrafikCezaUyg.exe.config
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\bin\Debug\TrafikCezaUyg.exe
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\bin\Debug\TrafikCezaUyg.pdb
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.Form1.resources
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.Properties.Resources.resources
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.exe
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.pdb
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.LoginForm.resources
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.Nesneler.MainForm.resources
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.Nesneler.OdemeForm.resources
+C:\Users\lenovo\source\repos\TrafikCezaUyg\TrafikCezaUyg\obj\Debug\TrafikCezaUyg.exe.config
