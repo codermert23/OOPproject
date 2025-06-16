@@ -1,2 +1,2 @@
 # OOPproject
-Şimdilik projemde Araç tipi, plaka, yol, ve hız girdileri var. bunlar sadece hız cezası yazmak için kullanılıyor. Cezanın yazıldığı yola ve araç tipine göre Ceza tutarı değişiklik gösteriyor. Henüz Ceza ödeme sistemini ve sorgulama sistemini yapmadım.
+Kontrolünü önceden sağlattığım projemi henüz yükleyebildim. Projemde Admin girişi ile Plakalar üzerine hız, Park, Kırmızı ışık cezası yazılabiliyor. Dışarıdan herhangi bir kullanıcı kendi araç plakasına göre Cezalarını listeleyip Bir veya birden fazla cezasını ödeme seçeneğiyle ödeyebiliyor. 
